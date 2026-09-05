@@ -21,5 +21,5 @@ A Python script designed for security testing and educational purposes to genera
 
 1. Clone the repository or download the script:
    ```bash
-   git clone [https://github.com/DJMarikyan/Gung-Generator.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+   git clone https://github.com/DJMarikyan/Gung-Generator.git
    cd YOUR_REPOSITORY
